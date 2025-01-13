@@ -1,0 +1,37 @@
+.hero {
+  background: url("img/company4.jpg") no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
+}
+.hero h1 {
+  font-size: 4rem;
+}
+.nav-link {
+  color: white !important;
+}
+.navbar {
+  background-color: #333658;
+}
+
+.emoji {
+  font-size: 40px;
+}
+.emoji-2 {
+  font-size: 40px;
+}
+.emoji-3 {
+  font-size: 40px;
+}
+
+/* /* footer */
+footer {
+  background-color: #333658;
+}
+
+footer p {
+  margin: 0;
+}
